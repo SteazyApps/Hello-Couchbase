@@ -1,5 +1,4 @@
 # Hello-Couchbase
-Go to Scene folder => Test_Couchbase.
-The "DatabaseManager Class" is on the "DatabaseManager Gameobject" in the hierarchy to examine the code
-Email me for any questions
+Here is the class with the couchbase API
+Email me with any questions.
 -Thank you
